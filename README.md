@@ -11,19 +11,15 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,express,git,github,vscode&perline=8" />
-</p>
-
+## 🔧 Tech Stack  
+- 💻 **Languages:** Java | Python | C  
+- 🌐 **Frontend:** HTML | CSS | JavaScript | React  
+- 🔙 **Backend:** Node.js | Express.js  
+- 🛠️ **Tools:** Git | GitHub | VS Code  
 ---
 
 ### 🌐 Portfolio
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/My Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
+[👉 Check it out here](https://yourwebsite.com)  
 
 ---
 
