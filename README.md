@@ -1,39 +1,64 @@
-# 👋 Hi there, I'm Omprakash Kumar!
-
-🚀 Aspiring Full Stack Developer | 🎯 Focused on Backend | 💡 Lifelong Learner
-
----
-
-## 🔧 Tech Stack  
-- 💻 **Languages:** Java | Python | C  
-- 🌐 **Frontend:** HTML | CSS | JavaScript | React  
-- 🔙 **Backend:** Node.js | Express.js  
-- 🛠️ **Tools:** Git | GitHub | VS Code  
+<h1 align="center">Hi there, I'm Omprakash Kumar 👋</h1>
+<h3 align="center">Aspiring Full Stack Developer | Backend Enthusiast | Java & Python Lover</h3>
 
 ---
 
-## 🌱 Currently Learning  
-- Backend Development (MERN Stack)  
-- Advanced Java Concepts  
-- System Design Basics  
+### 🌟 About Me
+- 🌱 Currently learning **Backend Development (MERN Stack)**
+- 💻 Passionate about **Java**, **Python**, and problem solving
+- 🛠️ Exploring **System Design** and **Open Source**
+- 🎯 Goal: Become a skilled backend engineer and contribute to real-world projects
 
 ---
 
-## 🌐 Portfolio  
-[👉 Check it out here](https://yourwebsite.com)  
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,express,git,github,vscode&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omprakash23081&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash23081&layout=compact&theme=radical)
+### 🌐 Portfolio
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/My Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omprakash23081&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash23081&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omprakash23081&theme=radical" />
+</p>
+
+---
+
+### 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://github.com/your-username/Omprakash23081/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐️ “Code is like humor. When you have to explain it, it’s bad.” – Cory House ⭐️</p>
