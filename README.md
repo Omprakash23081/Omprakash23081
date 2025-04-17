@@ -40,7 +40,7 @@
 
 ### 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://github.com/your-username/Omprakash23081/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Omprakash23081/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
